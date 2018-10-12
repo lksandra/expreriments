@@ -1,0 +1,12 @@
+{
+  "name": "sapmoviequestion",
+  "version": "1.0.0",
+  "description": "sapMovieGet",
+  "main": "sapMovieGet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sapMovieGet.js"
+  },
+  "author": "sandra",
+  "license": "ISC"
+}
